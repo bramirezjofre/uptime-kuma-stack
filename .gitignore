@@ -1,0 +1,9 @@
+# Secretos — nunca versionar.
+.admin-credentials
+.telegram-token
+
+# Datos de la instancia (SQLite, uploads, TLS).
+data/
+
+# Andamiaje temporal que genera kuma-manage.sh en cada corrida.
+.kuma-action.js
